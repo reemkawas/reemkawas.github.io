@@ -1,0 +1,246 @@
+.navigation-wrapper {
+  display: contents;
+}
+ 
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-image {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.navigation-icon12 {
+  display: none;
+}
+ 
+.navigation-thq-dropdown1 {
+  cursor: pointer;
+  display: inline-block;
+  padding: 4px 8px;
+  position: relative;
+  border-color: rgba(0, 0, 0, 0.45);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+ 
+.navigation-thq-dropdown-toggle1 {
+  gap: 4px;
+  display: inline-flex;
+  align-items: center;
+}
+ 
+.navigation-thq-dropdown-arrow1 {
+  transition: 0.3s;
+}
+ 
+.navigation-icon21 {
+  width: 18px;
+  height: 18px;
+}
+ 
+.navigation-thq-dropdown-list1 {
+  display: none;
+  z-index: 100;
+  position: absolute;
+  min-width: 100%;
+  flex-direction: column;
+  list-style-type: none;
+}
+ 
+.navigation-thq-dropdown2 {
+  cursor: pointer;
+  display: inline-block;
+  padding: 4px 8px;
+  position: relative;
+  border-color: rgba(0, 0, 0, 0.45);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+ 
+.navigation-thq-dropdown-toggle2 {
+  gap: 4px;
+  display: inline-flex;
+  align-items: center;
+}
+ 
+.navigation-thq-dropdown-arrow2 {
+  transition: 0.3s;
+}
+ 
+.navigation-icon23 {
+  width: 18px;
+  height: 18px;
+}
+ 
+.navigation-thq-dropdown-list2 {
+  display: none;
+  z-index: 100;
+  position: absolute;
+  min-width: 100%;
+  flex-direction: column;
+  list-style-type: none;
+}
+ 
+.navigation-thq-dropdown3 {
+  cursor: pointer;
+  display: inline-block;
+  padding: 4px 8px;
+  position: relative;
+  border-color: rgba(0, 0, 0, 0.45);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+ 
+.navigation-thq-dropdown-toggle3 {
+  gap: 4px;
+  display: inline-flex;
+  align-items: center;
+}
+ 
+.navigation-thq-dropdown-arrow3 {
+  transition: 0.3s;
+}
+ 
+.navigation-icon25 {
+  width: 18px;
+  height: 18px;
+}
+ 
+.navigation-thq-dropdown-list3 {
+  display: none;
+  z-index: 100;
+  position: absolute;
+  min-width: 100%;
+  flex-direction: column;
+  list-style-type: none;
+}
+ 
+.navigation-thq-dropdown4 {
+  cursor: pointer;
+  display: inline-block;
+  padding: 4px 8px;
+  position: relative;
+  border-color: rgba(0, 0, 0, 0.45);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+ 
+.navigation-thq-dropdown-toggle4 {
+  gap: 4px;
+  display: inline-flex;
+  align-items: center;
+}
+ 
+.navigation-thq-dropdown-arrow4 {
+  transition: 0.3s;
+}
+ 
+.navigation-icon27 {
+  width: 18px;
+  height: 18px;
+}
+ 
+.navigation-thq-dropdown-list4 {
+  display: none;
+  z-index: 100;
+  position: absolute;
+  min-width: 100%;
+  flex-direction: column;
+  list-style-type: none;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-container1 {
+  display: contents;
+}
+ 
+.footer-thq-icon10-elm {
+  width: 156px;
+  object-fit: cover;
+  margin-right: 8px;
+  border-radius: 4px;
+  vertical-align: middle;
+}
+ 
+.footer-thq-footer-nav-list-elm {
+  height: 225px;
+}
+ 
+.footer-container2 {
+  display: none;
+}
+ 
+.footer-container3 {
+  display: contents;
+}
+ 
+.footer-container4 {
+  display: none;
+}
+ 
+.footer-container5 {
+  display: contents;
+}
+
+.ms-excel-container1 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.ms-excel-container2 {
+  display: none;
+}
+ 
+.ms-excel-container3 {
+  display: contents;
+}
+ 
+.ms-excel-thq-project-overview-image-frame-elm {
+  height: 358px;
+}
+ 
+.ms-excel-thq-project-overview-image-elm {
+  width: 978px;
+  height: 356px;
+}
+ 
+.ms-excel-container4 {
+  display: none;
+}
+ 
+.ms-excel-container5 {
+  display: contents;
+}
+ 
+.ms-excel-container6 {
+  display: none;
+}
+ 
+.ms-excel-container7 {
+  display: contents;
+}
